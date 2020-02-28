@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fbc8e80-660b-4e30-b450-57032b6fca7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/webBrowser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1582914967252</updated>
     </task>
+    <task id="LOCAL-00001" summary="removed caps from unnecessary places">
+      <created>1582932179282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582932179282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed caps from unnecessary places" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed caps from unnecessary places" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582930786709">
@@ -145,33 +154,41 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1097" y="608" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582930106673" />
+    <state x="934" y="295" key="CommitChangelistDialog2" timestamp="1582932178568">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="934" y="295" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582932178568" />
     <state x="1060" y="442" key="FileChooserDialogImpl" timestamp="1582915087113">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="442" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582915087113" />
-    <state width="2539" height="260" key="GridCell.Tab.0.bottom" timestamp="1582931997635">
+    <state width="2539" height="260" key="GridCell.Tab.0.bottom" timestamp="1582932455004">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="260" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582931997635" />
+    <state width="2539" height="260" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582932455004" />
     <state width="1419" height="81" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1440.860@2560.0.1440.860" timestamp="1582926572904" />
-    <state width="2539" height="260" key="GridCell.Tab.0.center" timestamp="1582931997634">
+    <state width="2539" height="260" key="GridCell.Tab.0.center" timestamp="1582932455004">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="260" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582931997634" />
+    <state width="2539" height="260" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582932455004" />
     <state width="1419" height="81" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1440.860@2560.0.1440.860" timestamp="1582926572904" />
-    <state width="2539" height="260" key="GridCell.Tab.0.left" timestamp="1582931997634">
+    <state width="2539" height="260" key="GridCell.Tab.0.left" timestamp="1582932455004">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="260" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582931997634" />
+    <state width="2539" height="260" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582932455004" />
     <state width="1419" height="81" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1440.860@2560.0.1440.860" timestamp="1582926572904" />
-    <state width="2539" height="260" key="GridCell.Tab.0.right" timestamp="1582931997635">
+    <state width="2539" height="260" key="GridCell.Tab.0.right" timestamp="1582932455004">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="260" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582931997635" />
+    <state width="2539" height="260" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582932455004" />
     <state width="1419" height="81" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1440.860@2560.0.1440.860" timestamp="1582926572904" />
     <state x="781" y="343" key="SettingsEditor" timestamp="1582930329444">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="343" key="SettingsEditor/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582930329444" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1582932182164">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1440.860@0.0.2560.1400" timestamp="1582932182164" />
   </component>
 </project>
