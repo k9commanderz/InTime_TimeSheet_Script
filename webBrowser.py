@@ -67,7 +67,7 @@ class FireFox(webdriver.Firefox):
             # check if the user has already submitted the time sheet
             self.find_element_by_css_selector(":tbody.slide-right:nth-child(3) > tr:nth-child(1) > td:nth-child(1)")
         except NoSuchElementException:
-            print("This Week has already been submitted")
+            print("This Week time sheet has already been submitted")
             self.quit()
             return False
 
